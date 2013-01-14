@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="gb2312"?>
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "com.retter2012.同仁堂"
+        id        = "com.retter2012.同仁堂简报"
         version   = "2.0.0">
-    <name>同仁堂</name>
+    <name>同仁堂简报</name>
 
     <description>
     The beta version of FBC project is forked from beta1. It is ready for market somehow.The team of this project opens the source codes which are based on License of the Apache Software Foundation (ASF). You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0
