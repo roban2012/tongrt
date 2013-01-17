@@ -1,18 +1,16 @@
 <?xml version="1.0" encoding="gb2312"?>
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "com.retter2012.同仁堂简报"
-        version   = "1.0.0">
-    <name>同仁堂简报</name>
+        id        = "com.retter2012.RT2012"
+        version   = "2.0.0">
+    <name>RT2012</name>
 
     <description>
-    The beta version of FBC project is forked from beta1. It is ready for market somehow.The team of this project opens the source codes which are based on License of the Apache Software Foundation (ASF). You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0
-    Open source code ONLY. All rights, excluding the codes, are reserved by the authors, i.e. retter2012.com and jobnet@188.com. Your contribution in these parts is appreciated but cannot change the ownership of the intellectual properties.
-
+    This is Beta version and development process for apps with FBC ideas. Open source code ONLY. All rights, excluding the codes, are reserved by the authors, i.e. retter2012.com and jobnet@188.com. 
     </description>
 
     <author email="jobnet@188.com">
-    作者: retter2012.com and jobnet@188.com
+     retter2012.com and jobnet@188.com
     </author>
 
     <feature name="http://api.phonegap.com/1.0/device" />
